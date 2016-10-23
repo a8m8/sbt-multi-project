@@ -1,0 +1,39 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+#custom
+/project/project
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+### PlayFramework template
+# Ignore Play! working directory #
+bin/
+/db
+.eclipse
+/lib/
+/logs/
+/modules
+/project/target
+/target
+tmp/
+test-result
+server.pid
+*.eml
+/dist/
+
+### SBT template
+# Simple Build Tool
+# http://www.scala-sbt.org/release/docs/Getting-Started/Directories.html#configuring-version-control
+
+target/
+lib_managed/
+src_managed/
+project/boot/
+.history
+.cache
+
